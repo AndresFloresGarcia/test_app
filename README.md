@@ -1,16 +1,13 @@
 # test_app
 
-A new Flutter project.
+<p align="center">
+  Esta es una aplicación de prueba creada con flutter siguiendo el siguiente video.
+  <a href="https://www.youtube.com/watch?v=D4nhaszNW4o">
+    <img src="https://img.youtube.com/vi/D4nhaszNW4o/hqdefault.jpg" alt="Video" />
+  </a>
+</p>
 
-## Getting Started
+Recomendable para saber lo basico en flutter.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+PD: No dura realmente 25 minutos (Llevo 2 horas 😂)
